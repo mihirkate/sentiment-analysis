@@ -1,0 +1,36 @@
+body {
+    background-color: rgb(216, 179, 234);
+}
+
+.container-lg {
+    text-align: center;
+    width: 80%;
+    height: 550px;
+    color: rgb(151, 237, 216);
+    background-color: rgb(41, 41, 56);
+    border-radius: 20px;
+}
+
+#inp {
+    display: flex;
+    height: 80px;
+    width: 600px;
+    margin-left: 135px;
+    margin-top: 30px;
+}
+
+#btn {
+    margin-top: 30px;
+    height: 50px;
+    font-weight: 150px;
+}
+
+.form {
+    text-align: center;
+}
+
+.output {
+    text-align: center;
+    margin-top: 50px;
+    font-size: 50px;
+}
